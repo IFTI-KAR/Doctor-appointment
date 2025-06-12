@@ -103,23 +103,3 @@ npm run dev
 
 ---
 
-## 💡 Future Improvements
-
-* Backend integration with Firebase/MongoDB
-* Authentication & user management
-* Admin dashboard for managing doctor listings
-* Doctor availability based on calendar slots
-
----
-
-## 👨‍💻 Author
-
-Developed by: **\[Your Name]**
-Student, BRAC University
-CSE Department
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
